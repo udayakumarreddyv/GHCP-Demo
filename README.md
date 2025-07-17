@@ -1,5 +1,10 @@
 # Employee Management System
 
+[![Java CI with Maven](https://github.com/udayakumarreddyv/GHCP-Demo/actions/workflows/maven.yml/badge.svg)](https://github.com/udayakumarreddyv/GHCP-Demo/actions/workflows/maven.yml)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Java](https://img.shields.io/badge/Java-8-red.svg)](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7.0-green.svg)](https://spring.io/projects/spring-boot)
+
 A Spring Boot application that provides CRUD operations for managing employee records.
 
 ## Architecture
